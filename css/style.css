@@ -391,7 +391,7 @@
     justify-content: center;
   }
 
-  .video video {
+  .video iframe {
     margin: 30px 0;
     width: 650px;
     height: 365px;
@@ -557,7 +557,7 @@
     justify-content: center;
   }
 
-  .video video {
+  .video iframe {
     margin: 30px 0;
     width: 450px;
     height: 254px;
@@ -816,7 +816,7 @@
     justify-content: center;
   }
 
-  .video video {
+  .video iframe {
     margin: 30px 0;
     width: 330px;
     height: 185px;
